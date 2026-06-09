@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
-<h3 align="center">💻 BCA Student | 🚀 Full Stack Developer in Progress</h3>
+<h3 align="center"> Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+%7C+Java+%7C+MySQL;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
